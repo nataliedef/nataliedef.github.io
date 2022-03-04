@@ -5,7 +5,7 @@
     <link>https://nataliedef.github.io/publication/</link>
       <atom:link href="https://nataliedef.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Natalie DeForest</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Natalie DeForest</copyright><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nataliedef.github.io/media/icon_huce5eb90163281d902a17bcc558b5e166_50765_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>In Vitro Hepatic Uptake in Human and Monkey Hepatocytes in the Presence and Absence of Serum Protein and Its In Vitro to In Vivo Extrapolation</title>
-      <link>https://nataliedef.github.io/publication/in-vitro-hepatic-uptake-in-human-and-monkey-hepatocytes-in-the-presence-and-absence-of-serum-protein-and-its-in-vitro-to-in-vivo-extrapolation/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://nataliedef.github.io/publication/in-vitro-hepatic-uptake-in-human-and-monkey-hepatocytes-in-the-presence-and-absence-of-serum-protein-and-its-in-vitro-to-in-vivo-extrapolation/</guid>
+      <title>An example journal article</title>
+      <link>https://nataliedef.github.io/publication/journal_article1/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://nataliedef.github.io/publication/journal_article1/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
