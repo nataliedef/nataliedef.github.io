@@ -5,12 +5,20 @@
     <link>https://nataliedef.github.io/publication/</link>
       <atom:link href="https://nataliedef.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Natalie DeForest</copyright><lastBuildDate>Sun, 07 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Natalie DeForest</copyright><lastBuildDate>Thu, 08 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nataliedef.github.io/media/icon_huce5eb90163281d902a17bcc558b5e166_50765_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://nataliedef.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>A seven-transmembrane protein-TM7SF3 resides in nuclear speckles and regulates alternative splicing</title>
+      <link>https://nataliedef.github.io/publication/2022_iscience_tm7sf3/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://nataliedef.github.io/publication/2022_iscience_tm7sf3/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Activation of PPARG in skeletal muscle and visceral adipose tissues ameliorate NASH biomarkers in humans: implications for therapeutic targeting</title>
@@ -73,14 +81,6 @@
       <link>https://nataliedef.github.io/publication/2019_faseb/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://nataliedef.github.io/publication/2019_faseb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A seven-transmembrane protein-TM7SF3 resides in nuclear speckles and regulates alternative splicing</title>
-      <link>https://nataliedef.github.io/publication/2022_iscience_tm7sf3/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://nataliedef.github.io/publication/2022_iscience_tm7sf3/</guid>
       <description></description>
     </item>
     
