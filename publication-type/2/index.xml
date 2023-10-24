@@ -5,7 +5,7 @@
     <link>https://nataliedef.github.io/publication-type/2/</link>
       <atom:link href="https://nataliedef.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Natalie DeForest</copyright><lastBuildDate>Tue, 30 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Natalie DeForest</copyright><lastBuildDate>Mon, 23 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nataliedef.github.io/media/icon_huce5eb90163281d902a17bcc558b5e166_50765_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Genome-wide discovery and integrative genomic characterization of insulin resistance loci using serum triglycerides to HDL cholesterol ratio</title>
+      <link>https://nataliedef.github.io/publication/2023_tghdl/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://nataliedef.github.io/publication/2023_tghdl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Human gain-of-function variants in HNF1A confer protection from diabetes but independently increase hepatic secretion of atherogenic lipoproteins</title>
       <link>https://nataliedef.github.io/publication/2023_hnf1a_cellgenomics/</link>
       <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
       <guid>https://nataliedef.github.io/publication/2023_hnf1a_cellgenomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glycocalyx engineering with heparan sulfate mimetics attenuates Wnt activity during adipogenesis to promote glucose uptake and metabolism</title>
+      <link>https://nataliedef.github.io/publication/2023_glycocalyx/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://nataliedef.github.io/publication/2023_glycocalyx/</guid>
       <description></description>
     </item>
     
