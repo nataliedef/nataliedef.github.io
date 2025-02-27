@@ -70,7 +70,7 @@ work:
     date_end: ''
     summary: |2-
       Computational Genomics & Bioinformatics
-  - position: Research Intern - Drug Metabolism
+  - position: Research Intern, Drug Metabolism
     company_name: Gilead Sciences
     company_url: ''
     company_logo: ''
