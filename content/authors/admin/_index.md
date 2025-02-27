@@ -62,17 +62,14 @@ education:
     date_end: 2018-06-01
     summary: |
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Senior Scientist, Computational Genomics
+    company_name: Fauna Bio
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-02-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Computational Genomics & Bioinformatics
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
