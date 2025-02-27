@@ -105,6 +105,12 @@ skills:
         percent: 80
         icon: camera
 
+# languages:
+#  - name: English
+#    percent: 100
+#  - name: Chinese
+#    percent: 25
+
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
