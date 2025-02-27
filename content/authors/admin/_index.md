@@ -76,15 +76,15 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Data Science
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Bioinformatics
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Statistical genetics
         description: ''
         percent: 40
         icon: circle-stack
@@ -92,15 +92,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Tennis
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Animals
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Hiking
         description: ''
         percent: 80
         icon: camera
@@ -109,7 +109,7 @@ languages:
   - name: English
     percent: 100
   - name: Chinese
-    percent: 75
+    percent: 25
   - name: Portuguese
     percent: 25
 
