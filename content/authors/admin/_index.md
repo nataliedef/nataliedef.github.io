@@ -51,7 +51,9 @@ education:
     date_start: 2018-09-01
     date_end: 2023-11-01
     summary: |
-      Dissertation: "Leveraging human genetics and high-throughput functional genomics to understand, diagnose, and treat prevalent metabolic diseases such as type 2 diabetes and cardiovascular disease." Fellow of the UCSD Genetics Training Program (Ruth L. Kirschstein Institutional National Research Award from the National Institute for General Medical Sciences, T32 GM008666)
+      Dissertation:
+      - "Leveraging human genetics and high-throughput functional genomics to understand, diagnose, and treat prevalent metabolic diseases such as type 2 diabetes and cardiovascular disease."
+      - Fellow of the UCSD Genetics Training Program (Ruth L. Kirschstein Institutional National Research Award from the National Institute for General Medical Sciences, T32 GM008666)
     button:
       text: 'Read Thesis'
       url: 'https://escholarship.org/uc/item/3r1710dk'
