@@ -20,69 +20,47 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Senior Computational Genomics Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Fauna Bio
+    url: https://www.faunabio.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:nataliedeforest@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/natalie-deforest/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=-ZJVKWIAAAAJ&hl=en
+  - icon: brands/github
+    url: https://github.com/nataliedef
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational genomics & bioinformatics
+  - Human population genetics
+  - Biomedical science and pharmaceutical development
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Biomedical Sciences with Specialization in Bioinformatics
+    institution: Univ. of California San Diego
+    date_start: 2018-09-01
+    date_end: 2023-11-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Dissertation: "Leveraging human genetics and high-throughput functional genomics to understand, diagnose, and treat prevalent metabolic diseases such as type 2 diabetes and cardiovascular disease." Fellow of the UCSD Genetics Training Program (Ruth L. Kirschstein Institutional National Research Award from the National Institute for General Medical Sciences, T32 GM008666)
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://escholarship.org/uc/item/3r1710dk'
+  - area: BSc in Pharmaceutical Chemistry, Minor in Quantitative Biology & Bioinformatics
+    institution: Univ. of California Davis
+    date_start: 2014-06-01
+    date_end: 2018-06-31
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      summa cum laude
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
