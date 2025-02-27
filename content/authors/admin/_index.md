@@ -127,4 +127,4 @@ awards:
 
 ## About Me
 
-Natalie DeForest received her PhD in Biomedical Sciences and Bioinformatics from the University of California (UC) San Diego. Her research interests center on harnessing the power of human genetics, bioinformatics, and computational genomics to uncover and validate novel therapeutics as well as new biological insights. Outside of work, you can find her rock climbing, playing tennis, or training for her next triathlon.
+Natalie DeForest received her PhD in Biomedical Sciences and Bioinformatics from the University of California (UC) San Diego. Her research interests center on harnessing the power of human genetics, bioinformatics, and computational genomics to uncover and validate novel therapeutics as well as new biological insights. Outside of work, you can find her reading, rock climbing, or playing tennis.
