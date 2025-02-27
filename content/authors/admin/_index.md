@@ -41,12 +41,12 @@ profiles:
     url: https://scholar.google.com/citations?user=-ZJVKWIAAAAJ&hl=en
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational genomics & bioinformatics
+  - Human population genetics
+  - Biomedical science and pharmaceutical development
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: PhD Biomedical Sciences with Specialization in Bioinformatics
     institution: Stanford University
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -177,4 +177,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Natalie DeForest received her PhD in Biomedical Sciences and Bioinformatics from the University of California (UC) San Diego. Her research interests center on harnessing the power of human genetics, bioinformatics, and computational genomics to uncover and validate novel therapeutics as well as new biological insights. Outside of work, you can find her rock climbing, playing tennis, or training for her next triathlon.
