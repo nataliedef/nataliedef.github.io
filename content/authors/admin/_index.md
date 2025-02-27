@@ -117,11 +117,12 @@ skills:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Machine Learning Specialization
-    url: [https://www.coursera.org/learn/neural-networks-deep-learning](https://www.coursera.org/account/accomplishments/specialization/HYXYBTLQM7H4)
+    url: https://www.coursera.org/account/accomplishments/specialization/HYXYBTLQM7H4
     date: '2024-12-23'
     awarder: Coursera
     icon: coursera
     summary: |
+    
 ---
 
 ## About Me
