@@ -20,82 +20,92 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior Computational Genomics Scientist
+role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Fauna Bio
-    url: https://www.faunabio.com/
+  - name: OpenAI
+    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:nataliedeforest@gmail.com'
+    url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/natalie-deforest/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=-ZJVKWIAAAAJ&hl=en
+  - icon: brands/x
+    url: https://twitter.com/GetResearchDev
+  - icon: brands/instagram
+    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/nataliedef
+    url: https://github.com/gcushen
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/
+  - icon: academicons/orcid
+    url: https://orcid.org/
 
 interests:
-  - Computational genomics & bioinformatics
-  - Human population genetics
-  - Biomedical science and pharmaceutical development
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
-  - area: PhD Biomedical Sciences with Specialization in Bioinformatics
-    institution: Univ. of California San Diego
-    date_start: 2018-09-01
-    date_end: 2023-11-01
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      Dissertation: "Leveraging human genetics and high-throughput functional genomics to understand, diagnose, and treat prevalent metabolic diseases such as type 2 diabetes and cardiovascular disease." Fellow of the UCSD Genetics Training Program (Ruth L. Kirschstein Institutional National Research Award from the National Institute for General Medical Sciences, T32 GM008666)
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
-      url: 'https://escholarship.org/uc/item/3r1710dk'
-  - area: BSc in Pharmaceutical Chemistry, Minor in Quantitative Biology & Bioinformatics
-    institution: Univ. of California Davis
-    date_start: 2014-06-01
-    date_end: 2018-06-31
+      url: 'https://example.com'
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      summa cum laude
+      GPA: 3.8/4.0
 
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.4/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Senior Scientist, Computational Genomics
-    company_name: Fauna Bio
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
     company_url: ''
     company_logo: ''
-    date_start: 2024-02-01
+    date_start: 2021-01-01
     date_end: ''
     summary: |2-
-      Computational Genomics & Bioinformatics
-  - position: Research Intern - Drug Metabolism
-    company_name: Gilead Sciences
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
     company_url: ''
     company_logo: ''
-    date_start: 2018-06-01
-    date_end: 2018-9-31
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      Optimized in-house oil spin assay using suspended hepatocytes of human and cynomolgus monkey to measure transporter mediated hepatic uptake of selected compounds for intra- and inter-species comparison.
-  - position: Research Intern - Drug Metabolism
-    company_name: Cytokinetics
-    company_url: ''
-    company_logo: ''
-    date_start: 2017-06-01
-    date_end: 2017-9-31
-    summary: |
-      Designed, conducted, and validated in vitro drug metabolism assays to study the variation in enzyme-mediated degradation of drug compounds.
-  - position: Clinical Data Intern
-    company_name: Pharmacyclics, an Abbvie Company
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-06-01
-    date_end: 2016-9-31
-    summary: |
-      - Assisted in review of clinical study data to ensure data quality and identify data discrepancies
-      - Researched and calculated acceptable local laboratory data outlier ranges based on CTCAE grades
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -135,6 +145,8 @@ languages:
   - name: English
     percent: 100
   - name: Chinese
+    percent: 75
+  - name: Portuguese
     percent: 25
 
 # Awards.
@@ -171,4 +183,4 @@ awards:
 
 ## About Me
 
-Natalie DeForest received her PhD in Biomedical Sciences and Bioinformatics from the University of California (UC) San Diego. Her research interests center on harnessing the power of human genetics, bioinformatics, and computational genomics to uncover and validate novel therapeutics as well as new biological insights. Outside of work, you can find her rock climbing, playing tennis, or training for her next triathlon.
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
