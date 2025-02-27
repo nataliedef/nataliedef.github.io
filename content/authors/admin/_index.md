@@ -70,17 +70,6 @@ work:
     date_end: ''
     summary: |2-
       Computational Genomics & Bioinformatics
-  - position: Research Intern, Drug Metabolism
-    company_name: Gilead Sciences
-    company_url: ''
-    company_logo: ''
-    date_start: 2018-06-01
-    date_end: 2018-09-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
