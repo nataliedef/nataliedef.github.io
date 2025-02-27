@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Natalie DeForest
+title: Natalie DeForest, PhD
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -47,11 +47,11 @@ interests:
 
 education:
   - area: PhD Biomedical Sciences with Specialization in Bioinformatics
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: Univ. of California San Diego
+    date_start: 2018-09-01
+    date_end: 2023-11-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Dissertation: "Leveraging human genetics and high-throughput functional genomics to understand, diagnose, and treat prevalent metabolic diseases such as type 2 diabetes and cardiovascular disease." Fellow of the UCSD Genetics Training Program (Ruth L. Kirschstein Institutional National Research Award from the National Institute for General Medical Sciences, T32 GM008666)
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
