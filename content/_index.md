@@ -30,6 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
+ <!---
   - block: markdown
     content:
       title: '📚 My Research'
@@ -122,4 +123,5 @@ sections:
         # Card background color (CSS class)
         css_class: "bg-primary-700"
         css_style: ""
+-->
 ---
