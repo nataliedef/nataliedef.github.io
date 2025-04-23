@@ -78,7 +78,7 @@ skills:
       - name: Data Science (R, Python)
         description: ''
         percent: 100
-        icon: code-bracket
+        icon: chart-bar
       - name: Human population / Statistical genetics (GWAS, Burden testing, e/pQTL analyses, Mendelian Randomization)
         description: ''
         percent: 100
@@ -86,7 +86,7 @@ skills:
       - name: Bioinformatics / Genomics workflows (Nextflow, Bash scripting, CLI tools)
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: circle-stack
       - name: Next-generation sequencing (NGS), bulk/single-cell RNA-seq, ATAC-seq, ChIP-seq analysis
         description: ''
         percent: 100
@@ -94,7 +94,7 @@ skills:
       - name: High performance / Cloud computing (SLURM, AWS, GCP), Git version control
         description: ''
         percent: 100
-        icon: circle-stack
+        icon: code-bracket
       - name: Foundational biomedical sciences background; Experienced with drug discovery and development 
         description: ''
         percent: 100
