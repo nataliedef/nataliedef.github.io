@@ -68,7 +68,7 @@ work:
     date_start: 2024-02-01
     date_end: ''
     summary: |2-
-      - Prioritize translatable genetic targets responsible for disease protection in natural animal models of disease resistance using a variety of omics data including bulk/single-cell RNA-seq from non-model / model organisms / humans subjects and large-scale human genomics datasets i.e. UK Biobank.
+      - Identify and prioritize translatable genetic targets responsible for disease protection in natural animal models of disease resistance using a variety of omics data including bulk/single-cell RNA-seq from non-model/model organisms/humans, and large-scale human genomics datasets i.e. theUK Biobank.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -118,7 +118,19 @@ skills:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-
+awards:
+  - title: Machine Learning Specialization
+    url: https://www.coursera.org/account/accomplishments/specialization/HYXYBTLQM7H4
+    date: '2024-12-23'
+    awarder: Coursera
+    icon: coursera
+    summary: |
+  - title: T32 National Research Award, National Institute for General Medical Sciences (NIGMS)
+    url: 
+    date: '2020-06-01'
+    awarder: UCSD Graduate Genetics Training Program
+    icon: coursera
+    summary: |
 
 ---
 
