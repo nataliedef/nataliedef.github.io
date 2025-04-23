@@ -68,7 +68,7 @@ work:
     date_start: 2024-02-01
     date_end: ''
     summary: |2-
-      Computational Genomics & Bioinformatics
+      - Prioritize translatable genetic targets responsible for disease protection in natural animal models of disease resistance using a variety of omics data (bulk/single-cell RNA-seq from non-model / model organisms / humans subjects, large-scale human genomics datasets i.e. UK Biobank).
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -99,6 +99,22 @@ skills:
         description: ''
         percent: 100
         icon: circle-stack
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Reading
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Tennis
+        description: ''
+        percent: 100
+        icon: person-simple-walk
+      - name: Hiking
+        description: ''
+        percent: 80
+        icon: person-simple-walk
 
 # languages:
 #  - name: English
