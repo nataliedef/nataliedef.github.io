@@ -68,53 +68,45 @@ work:
     date_start: 2024-02-01
     date_end: ''
     summary: |2-
-      - Prioritize translatable genetic targets responsible for disease protection in natural animal models of disease resistance using a variety of omics data (bulk/single-cell RNA-seq from non-model / model organisms / humans subjects, large-scale human genomics datasets i.e. UK Biobank).
+      - Prioritize translatable genetic targets responsible for disease protection in natural animal models of disease resistance using a variety of omics data including bulk/single-cell RNA-seq from non-model / model organisms / humans subjects and large-scale human genomics datasets i.e. UK Biobank.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Data Science (R, Python)
-        description: ''
+      - name: Data Science 
+        description: 'Proficient in R, Python, Git version control'
         percent: 100
         icon: chart-bar
-      - name: Human population / Statistical genetics (GWAS, Burden testing, e/pQTL analyses, Mendelian Randomization)
-        description: ''
+      - name: Human population / Statistical genetics 
+        description: 'GWAS, Burden testing, e/pQTL analyses, Mendelian Randomization'
         percent: 100
         icon: code-bracket
-      - name: Bioinformatics / Genomics workflows (Nextflow, Bash scripting, CLI tools)
-        description: ''
+      - name: Bioinformatics / Genomics workflows
+        description: 'Nextflow, Bash scripting, CLI tools'
         percent: 100
         icon: circle-stack
-      - name: Next-generation sequencing (NGS), bulk/single-cell RNA-seq, ATAC-seq, ChIP-seq analysis
-        description: ''
+      - name: Sequencing analyses
+        description: 'Next-generation sequencing (NGS), bulk/single-cell RNA-seq, ATAC-seq, ChIP-seq'
         percent: 100
         icon: chart-bar
-      - name: High performance / Cloud computing (SLURM, AWS, GCP), Git version control
-        description: ''
+      - name: High performance computing 
+        description: 'SLURM, Cloud computing (AWS, GCP)'
         percent: 100
         icon: code-bracket
-      - name: Foundational biomedical sciences background; Experienced with drug discovery and development 
-        description: ''
+      - name: Foundational biomedical sciences background
+        description: 'Experienced with drug discovery and development'
         percent: 100
         icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Reading
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Tennis
-        description: ''
-        percent: 100
-        icon: person-simple-walk
-      - name: Hiking
-        description: ''
-        percent: 80
-        icon: person-simple-walk
+#  - name: Hobbies
+#    color: '#eeac02'
+#    color_border: '#f0bf23'
+#    items:
+#      - name: Reading
+#        description: ''
+#        percent: 60
+#        icon: person-simple-walk
 
 # languages:
 #  - name: English
