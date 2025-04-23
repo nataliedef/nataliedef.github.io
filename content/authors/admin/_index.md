@@ -126,22 +126,8 @@ skills:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Machine Learning Specialization
-    url: https://www.coursera.org/account/accomplishments/specialization/HYXYBTLQM7H4
-    date: '2024-12-23'
-    awarder: Coursera
-    icon: coursera
-    summary: |2-
-    - Mastered fundamental AI concepts and developed practical machine learning skills from Andrew Ng (DeepLearning.AI and Stanford Online)
-  - title: T32 National Research Award, National Institute for General Medical Sciences (NIGMS)
-    url: 
-    date: '2020-06-01'
-    awarder: UCSD Graduate Genetics Training Program
-    icon: coursera
-    summary: |2-
-    - Recipient of the Ruth L. Kirschstein Institutional National Research Award from the National Institute for General Medical Sciences (T32 GM008666)
-    
+
+
 ---
 
 ## About Me
