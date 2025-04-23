@@ -133,8 +133,9 @@ awards:
     awarder: Coursera
     icon: coursera
     summary: |
+    - Mastered fundamental AI concepts and developed practical machine learning skills from Andrew Ng (DeepLearning.AI and Stanford Online)
   - title: T32 National Research Award, National Institute for General Medical Sciences (NIGMS)
-    url: 
+    url: https://www.coursera.org/account/accomplishments/specialization/HYXYBTLQM7H4
     date: '2020-06-01'
     awarder: UCSD Graduate Genetics Training Program
     icon: coursera
