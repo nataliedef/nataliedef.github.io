@@ -99,22 +99,6 @@ skills:
         description: ''
         percent: 100
         icon: circle-stack
-#  - name: Hobbies
-#    color: '#eeac02'
-#    color_border: '#f0bf23'
-#    items:
-#      - name: Tennis
-#        description: ''
-#        percent: 60
-#        icon: person-simple-walk
-#      - name: Animals
-#        description: ''
-#        percent: 100
-#        icon: cat
-#      - name: Hiking
-#        description: ''
-#        percent: 80
-#        icon: camera
 
 # languages:
 #  - name: English
