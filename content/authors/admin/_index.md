@@ -43,7 +43,7 @@ profiles:
 interests:
   - Computational genomics & bioinformatics
   - Human population genetics
-  - Biomedical science and pharmaceutical development
+  - Drug discovery and development
 
 education:
   - area: PhD Biomedical Sciences with Specialization in Bioinformatics
@@ -52,7 +52,6 @@ education:
     date_end: 2023-11-01
     summary: |
       - Dissertation: "Leveraging human genetics and high-throughput functional genomics to understand, diagnose, and treat prevalent metabolic diseases such as type 2 diabetes and cardiovascular disease."
-      - Fellow of the UCSD Genetics Training Program (Ruth L. Kirschstein Institutional National Research Award from the National Institute for General Medical Sciences, T32 GM008666)
     button:
       text: 'Read Thesis'
       url: 'https://escholarship.org/uc/item/3r1710dk'
@@ -76,34 +75,46 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Data Science
+      - name: Data Science (R, Python)
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
-      - name: Bioinformatics
+      - name: Human population / Statistical genetics (GWAS, Burden testing, e/pQTL analyses, Mendelian Randomization)
+        description: ''
+        percent: 100
+        icon: code-bracket
+      - name: Bioinformatics / Genomics workflows (Nextflow, Bash scripting, CLI tools)
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Statistical genetics
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Tennis
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Animals
+      - name: Next-generation sequencing (NGS), bulk/single-cell RNA-seq, ATAC-seq, ChIP-seq analysis
         description: ''
         percent: 100
-        icon: cat
-      - name: Hiking
+        icon: chart-bar
+      - name: High performance / Cloud computing (SLURM, AWS, GCP), Git version control
         description: ''
-        percent: 80
-        icon: camera
+        percent: 100
+        icon: circle-stack
+      - name: Foundational biomedical sciences background; Experienced with drug discovery and development 
+        description: ''
+        percent: 100
+        icon: circle-stack
+#  - name: Hobbies
+#    color: '#eeac02'
+#    color_border: '#f0bf23'
+#    items:
+#      - name: Tennis
+#        description: ''
+#        percent: 60
+#        icon: person-simple-walk
+#      - name: Animals
+#        description: ''
+#        percent: 100
+#        icon: cat
+#      - name: Hiking
+#        description: ''
+#        percent: 80
+#        icon: camera
 
 # languages:
 #  - name: English
@@ -122,6 +133,13 @@ awards:
     awarder: Coursera
     icon: coursera
     summary: |
+  - title: T32 National Research Award, National Institute for General Medical Sciences (NIGMS)
+    url: 
+    date: '2020-06-01'
+    awarder: UCSD Graduate Genetics Training Program
+    icon: coursera
+    summary: |
+    - Recipient of the Ruth L. Kirschstein Institutional National Research Award from the National Institute for General Medical Sciences (T32 GM008666)
     
 ---
 
