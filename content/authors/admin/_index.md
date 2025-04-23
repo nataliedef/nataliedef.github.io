@@ -68,7 +68,7 @@ work:
     date_start: 2024-02-01
     date_end: ''
     summary: |2-
-      - Identify and prioritize translatable genetic targets responsible for disease protection in natural animal models of disease resistance using a variety of omics data including bulk/single-cell RNA-seq from non-model/model organisms/humans, and large-scale human genomics datasets i.e. theUK Biobank.
+      - Identify and prioritize translatable genetic targets responsible for disease protection in natural animal models of disease resistance using a variety of omics data including bulk/single-cell RNA-seq from non-model/model organisms/humans, and large-scale human genomics datasets i.e. the UK Biobank.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -129,7 +129,7 @@ awards:
     url: 
     date: '2020-06-01'
     awarder: UCSD Graduate Genetics Training Program
-    icon: coursera
+    icon: 
     summary: |
 
 ---
