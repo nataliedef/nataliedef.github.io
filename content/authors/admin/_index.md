@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Bioinformatics Scientist
+role: Senior Scientist, Computational Genomics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
