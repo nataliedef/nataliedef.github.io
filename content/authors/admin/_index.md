@@ -136,8 +136,9 @@ awards:
 
 ## About
 
-I believe the future of medicine and translational discoveries are hidden within the evolutionary signatures of the human genome, and I am interested in decoding it.
+I believe the future of medicine and translational discoveries are hidden within the evolutionary signatures of the human genome, and I’m interested in decoding it.
 
-Currently as a Computational Genomics Senior Scientist at Fauna Bio, I analyze and leverage genetic and multi-omics data from both humans and animals to uncover novel drug targets and elucidate biological mechanisms. I hold a PhD in Bioinformatics from UC San Diego, and a Machine Learning Specialization from Stanford University & DeepLearning.AI. 
+Currently as a Computational Genomics Senior Scientist at Fauna Bio, I analyze and leverage large-scale genetic and multi-omics data from both humans and animals to uncover novel drug targets and elucidate biological mechanisms. I hold a PhD in Bioinformatics from UC San Diego, and a Machine Learning Specialization from Stanford University & DeepLearning.AI. 
 
-I am a data-driven scientist focused on applying high-dimensional genomic frameworks and machine learning to prioritize novel therapeutic targets and molecular mechanisms. Offline, I trade the keyboard for a rock climbing harness, a tennis racket, or a new book.
+I am a data-driven scientist focused on applying high-dimensional genomic frameworks and machine learning to prioritize novel therapeutic targets and molecular mechanisms. Offline, I trade the keyboard for a rock climbing harness, a tennis racket, or a new book. Feel free to reach out via the links directly to the left, I’d love to connect!
+
