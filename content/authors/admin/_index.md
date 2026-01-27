@@ -136,4 +136,8 @@ awards:
 
 ## About Me
 
-Natalie DeForest received her PhD in Biomedical Sciences and Bioinformatics from the University of California (UC) San Diego. Her research interests center on harnessing the power of human genetics, bioinformatics, and computational genomics to uncover and validate novel therapeutics as well as new biological insights (see the "Experience" page for more details). Outside of work, you can find her reading, rock climbing, or playing tennis. 
+I believe the future of medicine and translational discoveries are hidden within the evolutionary signatures of the human genome, and I am interested in decoding it.
+
+Currently as a Computational Genomics Senior Scientist at Fauna Bio, I analyze and leverage genetic and multi-omics data from both humans and animals to uncover novel drug targets and elucidate biological mechanisms. I hold a PhD in Bioinformatics from UC San Diego, and a Machine Learning Specialization from Stanford University & DeepLearning.AI. 
+
+I am a data-driven scientist focused on applying high-dimensional genomic frameworks and machine learning to prioritize novel therapeutic targets and molecular mechanisms. Offline, I trade the keyboard for a rock climbing harness, a tennis racket, or a new book.
