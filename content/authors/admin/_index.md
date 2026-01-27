@@ -134,7 +134,7 @@ awards:
 
 ---
 
-## About Me
+## About
 
 I believe the future of medicine and translational discoveries are hidden within the evolutionary signatures of the human genome, and I am interested in decoding it.
 
